@@ -1,0 +1,23 @@
+{
+  "name": "oyo-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adhamkazi/Oyo-mock-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adhamkazi/Oyo-mock-server/issues"
+  },
+  "homepage": "https://github.com/Adhamkazi/Oyo-mock-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}

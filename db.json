@@ -1,0 +1,32 @@
+{
+    "users": [{
+            "id": 1,
+            "username": "adham",
+            "email": "kazi@fgmail.com",
+            "password": 12,
+            "repass": 12
+        },
+        {
+            "username": "AdhamKazi",
+            "email": "erenyeager@gmail.com",
+            "password": "12",
+            "repass": "12",
+            "id": 2
+        },
+        {
+            "username": "",
+            "email": "",
+            "password": "",
+            "repass": "",
+            "id": 3
+        },
+        {
+            "username": "",
+            "email": "",
+            "password": "",
+            "repass": "",
+            "id": 4
+        }
+    ],
+    "hotels": [{}]
+}
